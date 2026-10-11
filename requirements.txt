@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+# SpikerTools is cloned by the notebook: https://github.com/BackyardBrains/SpikerTools

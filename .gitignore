@@ -1,0 +1,4 @@
+data/
+SpikerTools/
+.ipynb_checkpoints/
+__pycache__/
